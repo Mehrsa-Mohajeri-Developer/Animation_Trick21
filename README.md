@@ -5,7 +5,7 @@
 https://github.com/Mehrsa-Mohajeri-Developer/Animation_Trick22/assets/145048780/cc251d11-995d-4d5e-99e2-124f08dcba30
       
 - 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Animation_Trick21/) 
-  
+   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri 
 
 - 📆 Created: 2023-10-12
